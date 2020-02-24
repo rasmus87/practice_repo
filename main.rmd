@@ -9,3 +9,6 @@ output: github_document
 print("Hello World!")
 ```
 
+```{r}
+print("Release test World!")
+```
