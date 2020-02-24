@@ -10,5 +10,5 @@ print("Hello World!")
 ```
 
 ```{r}
-print("Release test World!")
+print("Release test World!reserve DOI")
 ```
